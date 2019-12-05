@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19931" started-at="2019-12-05T13:02:14 IST" finished-at="2019-12-05T13:02:34 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19931" started-at="2019-12-05T13:02:14 IST" finished-at="2019-12-05T13:02:34 IST">
+      <class name="testJen.onlineShopping">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testJen.onlineShopping@23e028a9]" name="beforeMethod" is-config="true" duration-ms="13713" started-at="2019-12-05T13:02:14 IST" finished-at="2019-12-05T13:02:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:testJen.onlineShopping@23e028a9]" name="f" duration-ms="5857" started-at="2019-12-05T13:02:28 IST" finished-at="2019-12-05T13:02:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testJen.onlineShopping@23e028a9]" name="afterMethod" is-config="true" duration-ms="262" started-at="2019-12-05T13:02:33 IST" finished-at="2019-12-05T13:02:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- testJen.onlineShopping -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
